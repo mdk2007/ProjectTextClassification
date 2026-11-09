@@ -1,0 +1,416 @@
+{
+  "Logistic Regression": {
+    "model": "Logistic Regression",
+    "top_positive": [
+      {
+        "feature": "great",
+        "weight": 5.8079
+      },
+      {
+        "feature": "excellent",
+        "weight": 4.4956
+      },
+      {
+        "feature": "best",
+        "weight": 4.1878
+      },
+      {
+        "feature": "love",
+        "weight": 3.9265
+      },
+      {
+        "feature": "perfect",
+        "weight": 3.3599
+      },
+      {
+        "feature": "wonderful",
+        "weight": 3.2229
+      },
+      {
+        "feature": "amaze",
+        "weight": 3.2108
+      },
+      {
+        "feature": "fun",
+        "weight": 3.1088
+      },
+      {
+        "feature": "well",
+        "weight": 3.0137
+      },
+      {
+        "feature": "today",
+        "weight": 2.9579
+      },
+      {
+        "feature": "also",
+        "weight": 2.9027
+      },
+      {
+        "feature": "one best",
+        "weight": 2.8606
+      },
+      {
+        "feature": "enjoy",
+        "weight": 2.8332
+      },
+      {
+        "feature": "favorite",
+        "weight": 2.6588
+      },
+      {
+        "feature": "see",
+        "weight": 2.6411
+      },
+      {
+        "feature": "hilarious",
+        "weight": 2.6238
+      },
+      {
+        "feature": "life",
+        "weight": 2.5982
+      },
+      {
+        "feature": "brilliant",
+        "weight": 2.5955
+      },
+      {
+        "feature": "highly",
+        "weight": 2.5708
+      },
+      {
+        "feature": "definitely",
+        "weight": 2.4311
+      },
+      {
+        "feature": "superb",
+        "weight": 2.4248
+      },
+      {
+        "feature": "must see",
+        "weight": 2.3736
+      },
+      {
+        "feature": "beautiful",
+        "weight": 2.3709
+      },
+      {
+        "feature": "entertain",
+        "weight": 2.3458
+      },
+      {
+        "feature": "performance",
+        "weight": 2.3035
+      }
+    ],
+    "top_negative": [
+      {
+        "feature": "bad",
+        "weight": -6.618
+      },
+      {
+        "feature": "worst",
+        "weight": -6.4092
+      },
+      {
+        "feature": "waste",
+        "weight": -4.9463
+      },
+      {
+        "feature": "awful",
+        "weight": -4.8268
+      },
+      {
+        "feature": "bore",
+        "weight": -4.3816
+      },
+      {
+        "feature": "terrible",
+        "weight": -4.1076
+      },
+      {
+        "feature": "poor",
+        "weight": -4.0683
+      },
+      {
+        "feature": "no",
+        "weight": -3.7783
+      },
+      {
+        "feature": "nothing",
+        "weight": -3.719
+      },
+      {
+        "feature": "stupid",
+        "weight": -3.7144
+      },
+      {
+        "feature": "horrible",
+        "weight": -3.3214
+      },
+      {
+        "feature": "worse",
+        "weight": -3.2217
+      },
+      {
+        "feature": "not even",
+        "weight": -3.184
+      },
+      {
+        "feature": "waste time",
+        "weight": -3.0487
+      },
+      {
+        "feature": "minute",
+        "weight": -3.029
+      },
+      {
+        "feature": "not",
+        "weight": -3.0044
+      },
+      {
+        "feature": "fail",
+        "weight": -2.9498
+      },
+      {
+        "feature": "suppose",
+        "weight": -2.9477
+      },
+      {
+        "feature": "script",
+        "weight": -2.8854
+      },
+      {
+        "feature": "save",
+        "weight": -2.8287
+      },
+      {
+        "feature": "instead",
+        "weight": -2.7788
+      },
+      {
+        "feature": "dull",
+        "weight": -2.7282
+      },
+      {
+        "feature": "lame",
+        "weight": -2.6724
+      },
+      {
+        "feature": "poorly",
+        "weight": -2.5778
+      },
+      {
+        "feature": "annoy",
+        "weight": -2.54
+      }
+    ]
+  },
+  "Multinomial Naive Bayes": {
+    "model": "Multinomial Naive Bayes",
+    "top_positive": [
+      {
+        "feature": "highly recommend",
+        "weight": 2.1491
+      },
+      {
+        "feature": "one best",
+        "weight": 1.9471
+      },
+      {
+        "feature": "well worth",
+        "weight": 1.944
+      },
+      {
+        "feature": "definitely worth",
+        "weight": 1.8974
+      },
+      {
+        "feature": "favorite movie",
+        "weight": 1.8083
+      },
+      {
+        "feature": "excellent film",
+        "weight": 1.72
+      },
+      {
+        "feature": "superb",
+        "weight": 1.713
+      },
+      {
+        "feature": "beautifully",
+        "weight": 1.7111
+      },
+      {
+        "feature": "matthau",
+        "weight": 1.6897
+      },
+      {
+        "feature": "excellent movie",
+        "weight": 1.6881
+      },
+      {
+        "feature": "perfection",
+        "weight": 1.6785
+      },
+      {
+        "feature": "best role",
+        "weight": 1.6454
+      },
+      {
+        "feature": "one funniest",
+        "weight": 1.6434
+      },
+      {
+        "feature": "never forget",
+        "weight": 1.6367
+      },
+      {
+        "feature": "understate",
+        "weight": 1.6185
+      },
+      {
+        "feature": "wonderful film",
+        "weight": 1.6118
+      },
+      {
+        "feature": "must see",
+        "weight": 1.6033
+      },
+      {
+        "feature": "finest",
+        "weight": 1.5818
+      },
+      {
+        "feature": "wonderfully",
+        "weight": 1.58
+      },
+      {
+        "feature": "flawless",
+        "weight": 1.5683
+      },
+      {
+        "feature": "great job",
+        "weight": 1.5564
+      },
+      {
+        "feature": "excellent",
+        "weight": 1.5416
+      },
+      {
+        "feature": "outstanding",
+        "weight": 1.515
+      },
+      {
+        "feature": "refresh",
+        "weight": 1.4992
+      },
+      {
+        "feature": "wonderful",
+        "weight": 1.4957
+      }
+    ],
+    "top_negative": [
+      {
+        "feature": "worst movie",
+        "weight": -2.9577
+      },
+      {
+        "feature": "waste time",
+        "weight": -2.7109
+      },
+      {
+        "feature": "one worst",
+        "weight": -2.6173
+      },
+      {
+        "feature": "worst film",
+        "weight": -2.4807
+      },
+      {
+        "feature": "worst",
+        "weight": -2.447
+      },
+      {
+        "feature": "not waste",
+        "weight": -2.3315
+      },
+      {
+        "feature": "waste",
+        "weight": -2.2838
+      },
+      {
+        "feature": "awful",
+        "weight": -2.2556
+      },
+      {
+        "feature": "bad act",
+        "weight": -2.2347
+      },
+      {
+        "feature": "bad movie",
+        "weight": -2.1596
+      },
+      {
+        "feature": "stinker",
+        "weight": -2.101
+      },
+      {
+        "feature": "really bad",
+        "weight": -2.0521
+      },
+      {
+        "feature": "avoid cost",
+        "weight": -2.0457
+      },
+      {
+        "feature": "movie suck",
+        "weight": -2.0074
+      },
+      {
+        "feature": "movie terrible",
+        "weight": -1.9829
+      },
+      {
+        "feature": "act horrible",
+        "weight": -1.9819
+      },
+      {
+        "feature": "horrible",
+        "weight": -1.9517
+      },
+      {
+        "feature": "act bad",
+        "weight": -1.9516
+      },
+      {
+        "feature": "stink",
+        "weight": -1.9456
+      },
+      {
+        "feature": "act terrible",
+        "weight": -1.934
+      },
+      {
+        "feature": "terrible",
+        "weight": -1.9301
+      },
+      {
+        "feature": "laughable",
+        "weight": -1.9134
+      },
+      {
+        "feature": "remotely",
+        "weight": -1.8916
+      },
+      {
+        "feature": "awful movie",
+        "weight": -1.8826
+      },
+      {
+        "feature": "movie awful",
+        "weight": -1.8678
+      }
+    ]
+  }
+}
